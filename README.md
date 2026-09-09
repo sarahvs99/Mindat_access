@@ -4,6 +4,8 @@ By Sarah Stewart, University of Edinburgh, April-June 2026.
 
 Contact: s.v.stewart@ed.ac.uk 
 
+---
+
 Scripts used to automate the querying and retrieval of information from Mindat.org via the API.
 The scripts were originally created to search for Scottish localities, but can be easily modified for other localities. See the individual help pages for information on this.
 
